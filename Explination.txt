@@ -1,0 +1,10 @@
+I have used three different heat maps.
+
+The first one is Sex offence. The biggest reason for chosing sex offence because it is very around the world and many people die due to sexual crimes, so I thought it would be
+best to graph this. I have just chosen basic graph with five ranges because I want to know the wide range of this crime.
+
+The second one is Theft graph. The reason for chosing theft was it is very common. I have chosen 10 ranges for this because I wanted to know better understanding of the range
+in different places. It would also be really good to compare it with literacy, if I had that data, it would be nice to see the predictions of how can it effect the future
+
+The third graph is Criminal Tresspass. I chose it because it very rare in many parts of thr world. I chose 15 ranges because I want to know how range differs from location because
+due its less crime rate. Also I chose different colors because I wanted to show the difference from others.
